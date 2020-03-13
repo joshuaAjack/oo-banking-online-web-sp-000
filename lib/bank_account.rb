@@ -6,5 +6,8 @@ class BankAccount
     @balance = 1000
     @status = "open"
   end
+  
+  def self.deposit
+    @deposit
 
 end
